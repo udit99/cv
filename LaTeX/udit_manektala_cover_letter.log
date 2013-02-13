@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  13 FEB 2013 12:59
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  13 FEB 2013 13:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**let3.tex
-(./let3.tex
+**udit_manektala_cover_letter.tex
+(./udit_manektala_cover_letter.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
@@ -27,8 +27,8 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 (./helvetica.sty
 Package: helvetica 94/11/11 4.2 Helvetica PSNFSS2e package
-) (./let3.aux)
-\openout1 = `let3.aux'.
+) (./udit_manektala_cover_letter.aux)
+\openout1 = `udit_manektala_cover_letter.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -57,20 +57,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 34.
  [1
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./let3
-.aux) ) 
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./udit_manektala_cover_letter.aux) ) 
 Here is how much of TeX's memory you used:
  224 strings out of 493488
- 2557 string characters out of 3141326
+ 2764 string characters out of 3141326
  51432 words of memory out of 3000000
  3599 multiletter control sequences out of 15000+200000
  10984 words of font info for 29 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 25i,6n,19p,541b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/lo
-cal/texlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/tex
-live/2012/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on let3.pdf (1 page, 18124 bytes).
+ 25i,6n,19p,564b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2012/texmf-dist/fonts/
+enc/dvips/base/8r.enc}</usr/local/texlive/2012/texmf-dist/fonts/type1/urw/helve
+tic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhv
+r8a.pfb>
+Output written on udit_manektala_cover_letter.pdf (1 page, 18124 bytes).
 PDF statistics:
  17 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
